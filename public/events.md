@@ -1,4 +1,5 @@
-# MSMC Transport Carrier // 2.21.5014u
-The squad finally met each other en-route to the recently-rediscovered planetoid known as **Hercynia**. Guided by MSMC Commanding Officer SNAKEMAN, Squad DELTA-ECHO-ECHO-ZULU was given a rudimentary team-building exercise known as **VIRTUAL TRAINING**. 
+# Armada Insurgency H.M.S. Nermal Logs // 6∆.9∑ø.5014u
 
-**KAL** attempted to tap into the main systems in order to give her team an advantage - this backfired spectacularly, as SNAKEMAN was staring at her with his one good eye as she failed to guess the passphrase he had chosen as the administrator login - ~~GARM~~. Because of this, the squad was pushed to the brink in what was supposed to be a confidence booster.
+Armada Insurgency explored an aquatic city that had been uninhabited for over two thousand years. Kenjiro stuck his hand somewhere he shouldn't have, and was killed and turned into some sort of bio-computer. 
+
+Explorations revealed the **Smith-Shimano Corporation** had been conducting bio-industrial research in a separate facility underwater. During explorations operatives acquired a globe that appeared to be some sort of weapon interface. Exiting the mission area involved jury rigging the power supply for the elevator, but this set off alarms and triggered some ancient mechs that emerged from the city and began ascending to the surface. Armada operatives rushed to their mechs in anticipation of the engagement.
