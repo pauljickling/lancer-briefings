@@ -1,3 +1,0 @@
-## Pilot Biography
-
-Test
