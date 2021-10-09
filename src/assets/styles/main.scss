@@ -492,7 +492,7 @@ section .section-header {
   flex-direction: row;
   padding: 1em;
   column-gap: 1em;
-  height: 136px;
+  height: 100px;
   border-bottom: none;
   z-index: 1;
   cursor: pointer;
@@ -513,8 +513,8 @@ section .section-header {
   }
 
   .pilot-portrait {
-    width: 104px;
-    height: 136px;
+    width: 76px;
+    height: 100px;
     object-fit: cover;
   }
 
