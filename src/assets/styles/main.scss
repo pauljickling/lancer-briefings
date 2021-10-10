@@ -92,7 +92,7 @@ $text-markdown-h2: rgba(255, 255, 255, 0.87);
 }
 
 body {
-  overflow: hidden !important;
+  /* overflow: hidden !important; */
 }
 
 header {
@@ -519,8 +519,8 @@ section .section-header {
   }
 
   .mech-portrait {
-    width: 104px;
-    height: 136px;
+    width: 76px;
+    height: 100px;
     object-fit: cover;
   }
 
@@ -566,13 +566,13 @@ section .section-header {
   transition: 0.2s ease;
   position: absolute;
   text-align: center;
-  height: 17vh;
+  height: 1vh;
   background-color: $highlight-hover;
   display: flex;
   align-items: center;
   margin-bottom: 1em;
   width: 0px;
-  margin-top: -132px;
+  margin-top: -.5em;
   margin-left: 1em;
   z-index: -1;
 
