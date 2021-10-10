@@ -566,13 +566,13 @@ section .section-header {
   transition: 0.2s ease;
   position: absolute;
   text-align: center;
-  height: 136px;
+  height: 17vh;
   background-color: $highlight-hover;
   display: flex;
   align-items: center;
   margin-bottom: 1em;
   width: 0px;
-  margin-top: -153px;
+  margin-top: -132px;
   margin-left: 1em;
   z-index: -1;
 
@@ -592,7 +592,7 @@ section .section-header {
 }
 
 .pilot-wrapper:hover .middle {
-  width: 757px;
+  width: 757px; 
 }
 
 .pilot-wrapper:active .middle,
