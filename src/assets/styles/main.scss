@@ -664,23 +664,23 @@ section .section-header {
     background-color: $secondary;
     border: 1px solid $primary;
     margin-top: -38px;
-    width: 888px;
-    height: 662px;
+    /* width: 888px;
+    height: 662px; */
 
     div.markdown {
-      height: 662px;
+      height: 70vh;
     }
   }
 }
 
 .pilot-modal.portrait {
   .pilot {
-    width: 600px;
+    max-width: 50vw;
   }
 
   img.portrait {
-    width: 600px;
-    height: 662px;
+    max-width: 30vw;
+    /* height: 662px; */
     object-fit: cover;
   }
 
