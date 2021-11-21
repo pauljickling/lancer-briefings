@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
+      "mission_slug": "006",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "005",
-          "name": "On the Run",
+          "slug": "006",
+          "name": "Turning the Tables",
           "status": "start"
         },
       ],
@@ -192,5 +192,6 @@ export default {
   width: 1902px;
   height: 910px;
   overflow: hidden;
+  min-height: 100vh;
 }
 </style>
