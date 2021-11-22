@@ -567,13 +567,12 @@ section .section-header {
   transition: 0.2s ease;
   position: absolute;
   text-align: center;
-  height: 1vh;
+  height: .75vh;
   background-color: $highlight-hover;
   display: flex;
-  align-items: center;
-  margin-bottom: 1em;
+  align-items: flex-end;
   width: 0px;
-  margin-top: -.5em;
+  margin-top: -.35em;
   margin-left: 1em;
   z-index: -1;
 
