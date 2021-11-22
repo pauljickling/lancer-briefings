@@ -298,6 +298,7 @@ section.section-container {
   display: flex;
   flex-direction: column;
   margin: 50px;
+  min-height: 70vh;
 }
 
 section .section-header {
@@ -331,6 +332,8 @@ section .section-header {
   border: 1px solid $primary;
   margin-top: -1px;
   z-index: 0;
+  display: flex;
+  flex-direction: column;
 
   h3 {
     color: $primary;
@@ -363,8 +366,6 @@ section .section-header {
 }
 
 .mission-list-container {
-  height: 180px;
-  overflow-y: scroll;
 }
 
 .clipped-medium-backward {
@@ -483,8 +484,8 @@ section .section-header {
 }
 
 .pilot-list-container {
-  height: 666px;
-  overflow-y: scroll;
+  /* height: 666px; */
+  /* overflow-y: scroll; */
 }
 
 #pilots .pilot {
@@ -592,7 +593,7 @@ section .section-header {
 }
 
 .pilot-wrapper:hover .middle {
-  width: 757px; 
+  width: 98%;
 }
 
 .pilot-wrapper:active .middle,
@@ -668,7 +669,6 @@ section .section-header {
     height: 662px; */
 
     div.markdown {
-      height: 70vh;
     }
   }
 }
@@ -765,6 +765,7 @@ div.markdown {
   height: 350px;
   overflow-y: auto;
   transition: height 0.5s ease-in-out;
+  flex-grow: 2;
 
   h1 {
     margin: 0px;
@@ -804,7 +805,7 @@ div.markdown {
 }
 
 #missions .markdown {
-  height: 350px;
+  flex-grow: 2;
 }
 
 #events .markdown {
