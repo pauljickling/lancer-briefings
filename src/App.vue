@@ -89,12 +89,12 @@ export default {
 
   data() {
     return {
-      "mission_slug": "006",
+      "mission_slug": "007",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "006",
+          "slug": "007",
           "name": "Turning the Tables",
           "status": "start"
         },
