@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "007",
-          "name": "Turning the Tables",
+          "name": "The Path to Human Rights",
           "status": "start"
         },
       ],
